@@ -61,4 +61,4 @@ Feel free to fork this repository and submit a pull request if you have any impr
 - Email: f.mutabazi1@alustudent.com
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the ISC License.
